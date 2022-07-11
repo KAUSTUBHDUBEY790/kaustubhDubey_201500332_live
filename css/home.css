@@ -50,12 +50,6 @@
 .navbar .menu li a:hover{
     color: rgb(227, 227, 17);
 }
-.navbar .menu li a:hover,
-.navbar.sticky .menu li a:hover{
-    color: #fff;
-    text-decoration: underline;
-}
-
 /* menu btn styling */
 .menu-btn{
     color: #fff;
